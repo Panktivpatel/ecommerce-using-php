@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/90c790f8-1362-4ed6-ae63-5aac47196aa6/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/letsgoshopping",
+    "appService.deploySubpath": "."
+}
